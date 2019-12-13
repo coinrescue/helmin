@@ -1,4 +1,4 @@
-![coinrescue.net](https://raw.githubusercontent.com/coinrescue/helmin/blob/master/coinrescue130.png) > ![Helmin Logo](https://raw.githubusercontent.com/coinrescue/helmin/master/helmin-logo.png)
+![coinrescue.net](https://raw.githubusercontent.com/coinrescue/helmin/master/coinrescue130.png) > ![Helmin Logo](https://raw.githubusercontent.com/coinrescue/helmin/master/helmin-logo.png)
 
 # Helmin integration/staging repository
 
