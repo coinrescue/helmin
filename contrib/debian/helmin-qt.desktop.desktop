@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=HLMN
+Comment=HLMN P2P Cryptocurrency
+Exec=helmin-qt %u
+Terminal=false
+Type=Application
+Icon=helmin128
+MimeType=x-scheme-handler/helmin;
+Categories=Office;Finance;
+Name[en_US]=helmin-qt.desktop

@@ -1,0 +1,4 @@
+qt/qt_libbitcoinqt_a-qrc_helmin.o: qt/qrc_helmin.cpp \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:
