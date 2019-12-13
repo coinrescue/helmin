@@ -1,3 +1,5 @@
+![Helmin Logo](https://raw.githubusercontent.com/coinrescue/helmin/master/helmin-logo.png)
+
 # Helmin integration/staging repository
 
 ## Coin Specs
